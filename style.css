@@ -170,9 +170,9 @@
 
  .secImage video {
      position: absolute;
-     top: 52px;
+     top: 82px;
      right: 0;
-     width: 555px;
+     width: 482px;
  }
 
  .secFirst .text .fline {
@@ -403,10 +403,12 @@
 
      .secImage img {
          width: 305px;
+         
      }
 
      .secImage video {
-         width: 305px;
+         width: 305px; 
+         top: 48px;
      }
 
      .hero> :nth-child(1) {
