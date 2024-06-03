@@ -14,7 +14,7 @@
  }
 
  .main {
-     background-image: url("/assests/images/bg.webp");
+     background-image: url("/assests/images/bg.jpg");
      height: 100vh;
      position: relative;
      background-position: center center;
@@ -42,9 +42,11 @@
 
  nav img {
      width: 120px;
-     position: relative;
+     position: relative; 
      z-index: 10;
-     
+ }
+ .transparent{
+    background-color: transparent;
  }
 
  nav div {
